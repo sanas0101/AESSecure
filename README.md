@@ -18,14 +18,14 @@ AES Secure is a Java-based program that utilizes the Advanced Encryption Standar
 
 2. **Navigate to the Project Directory:**
 
-## Usage
+<!--## Usage
 ### Encryption
 To encrypt a file, run the following command:
 Replace `/path/to/input/file.txt` with the path to the file you want to encrypt and `/path/to/output/encryptedFile.aes` with the desired output path and filename for the encrypted file.
 
 ### Decryption
 To decrypt an encrypted file, execute the command:
-Replace `/path/to/encryptedFile.aes` with the path to the encrypted file and `/path/to/output/decryptedFile.txt` with the desired output path and filename for the decrypted file.
+Replace `/path/to/encryptedFile.aes` with the path to the encrypted file and `/path/to/output/decryptedFile.txt` with the desired output path and filename for the decrypted file.!-->
 
 ## Important Notes
 - Ensure you keep the encryption key secure and don't lose it, as it's necessary for decryption.
