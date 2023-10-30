@@ -19,8 +19,8 @@ import java.security.NoSuchAlgorithmException;
     private static final String SECRET_KEY = "purathelallalhai";
 
     public static void main(String[] args) {
-        String inputFile = "Photo.png";
-        String outputFile = "Photo1.png";
+        String inputFile = "example.jpeg";
+        String outputFile = "example1.jpeg";
 
         try {
             encryptFile(inputFile, outputFile);
