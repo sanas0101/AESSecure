@@ -15,7 +15,7 @@ public class MediaDecryption {
         private static final String SECRET_KEY = "purathelallalhai";
 
         public static void main(String[] args) {
-            String inputFile = "example.jpeg";
+            String inputFile = "example1.jpeg";
             String outputFile = "example2.jpeg";
 
             try {
